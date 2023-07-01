@@ -1,6 +1,6 @@
 # github_pages_example
 
-<iframe src="/_includes/clustered_Apparel.html"
+<iframe src="/assets/img/Bokeh/clustered_Apparel.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
@@ -8,6 +8,3 @@
     seamless="seamless"
     frameborder="0">
 </iframe>
-
-
-{% include clustered_Apparel.html %}
