@@ -1,3 +1,3 @@
-# Analyzing Amazon Reviews with UMAP, HBSCAN, and YAKE
+# github_pages_example
 
 {% include clustered_Apparel.html %}
