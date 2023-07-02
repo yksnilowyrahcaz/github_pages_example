@@ -2,4 +2,4 @@ title: Analyzing Amazon Reviews with UMAP, HDBSCAN, and YAKE
 # logo: assets/img/photo.png
 # description: test below image
 # show_downloads: true
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minima
