@@ -1,5 +1,7 @@
 title: Analyzing Amazon Reviews with UMAP, HDBSCAN, and YAKE
 # logo: assets/img/photo.png
+author:
+  name: Github User
 description: >
   Clustering your data
 # show_downloads: true
